@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jenkin-server-t1
+server:
+  port: 8888
